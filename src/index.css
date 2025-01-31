@@ -1,0 +1,44 @@
+.bg-primary{
+
+ background-color:#26a3b9 !important;
+} 
+
+.bg-secondary{
+    background-color: #fabf01 !important;
+}
+
+.btn-outline-primary{
+
+   border:#26a3b9 solid 1px !important;
+   color: #26a3b9;
+   } 
+
+.btn-outline-primary:hover{
+
+    background-color:#26a3b9 !important;
+   } 
+
+.btn-primary{
+
+    background-color:#26a3b9 !important;
+   } 
+   
+   .btn-secondary{
+       background-color: #fabf01 !important;
+   }
+   
+
+
+   .text-primary{
+
+    color:#26a3b9 !important;
+   } 
+   
+   .text-secondary{
+       color: #fabf01 !important;
+   }
+
+   
+.geodata{
+    cursor: pointer;
+}
